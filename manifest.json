@@ -1,7 +1,7 @@
-﻿{
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/rohann1107/milo-ota-releases/main/milo-bundle.zip",
-  "checksum": "420a8956f297038ec6bc430c69506c84a9f628c1a3a37767712e309186b43239",
-  "timestamp": "2026-10-07T20:15:29Z",
-  "releaseNotes": "OTA Live Update Bundle [OTA TEST 001]"
+{
+  "version": "1.0.6",
+  "url": "https://github.com/rohann1107/milo-ota-releases/releases/download/ota-latest/milo-bundle.zip",
+  "checksum": "e168a3e807bb9d1c2ef92f5ce3cbb4e13044fe2569d04be27cc4cd9a29675b14",
+  "timestamp": "2026-10-07T20:26:42Z",
+  "releaseNotes": "Automated OTA build for commit bfdb7ca8cea0c116fb23f6225c12e9ed9d3d2b65"
 }
