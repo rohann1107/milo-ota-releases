@@ -1,9 +1,9 @@
 {
-  "version": "1.0.37",
-  "url": "https://raw.githubusercontent.com/rohann1107/milo-ota-releases/main/milo-bundle.zip?v=1.0.37",
+  "version": "1.0.38",
+  "url": "https://raw.githubusercontent.com/rohann1107/milo-ota-releases/main/milo-bundle.zip?v=1.0.38",
   "fallbackUrl": "https://github.com/rohann1107/milo-ota-releases/releases/download/ota-latest/milo-bundle.zip",
-  "checksum": "a5255fb987edb6d10493691725cfcb451e245f9db55c1bb9f361d36adc530d4b",
-  "timestamp": "2026-10-21T19:25:26Z",
+  "checksum": "a7645ac0ba5df0c66cb022322d234bb3eea139459ef593c1a42d587400258eb8",
+  "timestamp": "2026-10-23T15:19:59Z",
   "type": "ota",
   "minNativeVersion": "1.0.0",
   "releaseNotes": "Improvements to your Milo learning adventure!"
